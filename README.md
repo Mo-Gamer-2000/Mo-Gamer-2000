@@ -22,7 +22,7 @@
   - 🤝 Built lasting working relationships.
 
 🚀 **Summary** 
-- Fresh grad with a knack for **HTML, CSS, JavaScript,** and **C++**.
+- 🎓Fresh grad with a knack for **HTML, CSS, JavaScript,** and **C++**.
 - ⚙️ Deep dive into **OOP** and always up-to-date with best practices.
 - ⏳ Juggled a part-time gig with studies during the pandemic.
 - 💡 My GitHub projects reflect my passion and dedication to quality.
