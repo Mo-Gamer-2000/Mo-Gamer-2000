@@ -38,7 +38,7 @@
 - 🤝 **Collaborating on**: [Portfolio Website](https://github.com/Mo-Gamer-2000?tab=repositories)
 - ❓ **Ask me about**: MongoDB, Express.js, React.js & Node.js
 - 📬 **Contact**: **moeezrajput2000@gmail.com**
-- 📜 **Experience & Certifications**: [Check Here]((https://1drv.ms/b/s!Akx4y8HSgYVPh4VsakrmIcR7EtQROw?e=EVTd0O))
+- 📜 **Experience & Certifications**: [Check Here](https://1drv.ms/b/s!Akx4y8HSgYVPh4VsakrmIcR7EtQROw?e=EVTd0O)
 - 🏏 **Fun fact**: Avid cricket enthusiast!
 
 ---
