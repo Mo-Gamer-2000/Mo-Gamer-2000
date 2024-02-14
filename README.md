@@ -45,10 +45,9 @@
 
 - 🛠 **Working on**: [MERN Blog Application](https://github.com/Mo-Gamer-2000?tab=repositories)
 - 📚 **Learning**: MERN Stack, Tailwind CSS, Next.js & TypeScript
-- 🤝 **Collaborating on**: [Portfolio Website](https://github.com/Mo-Gamer-2000?tab=repositories)
+- 🤝 **Collaborating on**: [Portfolio Website](https://moeez-abdul.netlify.app/)
 - ❓ **Ask me about**: MongoDB, Express.js, React.js & Node.js
 - 📬 **Contact**: **moeezrajput2000@gmail.com**
-- 📜 **Experience & Certifications**: [Check Here](https://1drv.ms/b/s!Akx4y8HSgYVPh4VsakrmIcR7EtQROw?e=EVTd0O)
 - 🏏 **Fun fact**: Avid cricket enthusiast!
 
 ---
