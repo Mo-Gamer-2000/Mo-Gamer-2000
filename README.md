@@ -1,6 +1,6 @@
 <div align="center">
     <h1>👋 Hey there, I'm Moeez Abdul! 🚀</h1>
-    <h3>🔥 A Full-Stack Developer Crafting Digital Magic from the UK 🔥</h3>
+    <h3>🔥 Full-Stack Developer & Software Engineer from Manchester, UK 🔥</h3>
 </div>
 
 <div align="center">
@@ -14,18 +14,28 @@
 - 🎓 Graduated with a **B.S. in Software Development** from **Manchester Metropolitan University (2020-2023)**.
   - 🌐 Modules: Advanced Programming, Web Development, Algorithms, Database Design, OOP, UI Design.
 
-💡 **Experience** 
-- 📫 **Mail Processor at Royal Mail (Mar 2017 - Present)**
-  - 🌟 Enhanced customer satisfaction with accurate deliveries.
-  - 🚀 Pioneered efficient parcel handling methods.
-  - 🛠 Optimized delivery processes using logistics tech.
-  - 🤝 Built lasting working relationships.
+💡 **Key Skills** 
+- 💻 **Programming**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"> Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="20"> PHP, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="20"> Java, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"> JavaScript (ES6+), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="20"> C++, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="20"> TypeScript
+- 🌐 **Web Development**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="20"> HTML/CSS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="20"> MySQL, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="20"> MongoDB, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="20"> Express.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="20"> React.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20"> Node.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="20"> NPM
+- 🛠 **Tools**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" height="20"> VS Code, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git/GitHub" height="20"> Git/GitHub, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="20"> Bootstrap, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="20"> TailwindCSS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="20"> Postman, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Studio3T" height="20"> Studio3T, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" height="20"> Godot, <img src="https://www.vectorlogo.zone/logos/apache_netbeans/apache_netbeans-icon.svg" alt="Apache NetBeans" height="20"> Apache NetBeans, <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="20"> Figma
 
-🚀 **Summary** 
-- 🎓Fresh grad with a knack for **HTML, CSS, JavaScript,** and **C++**.
-- ⚙️ Deep dive into **OOP** and always up-to-date with best practices.
-- ⏳ Juggled a part-time gig with studies during the pandemic.
-- 💡 My GitHub projects reflect my passion and dedication to quality.
+⚙️ **Experience** 
+- 📆 **Sahii Blogging App, Manchester, UK (Jan 2023 – Jan 2024)**
+  - 🚀 Independent Full-Stack Engineer
+  - 🔧 Developed a full-stack MERN blogging application, emphasizing code reusability & TDD.
+  - 📱 Designed a responsive UI/UX, ensuring accessibility & enhancing user engagement.
+  - 📊 Integrated JSON Web Tokens for robust authentication & authorization.
+- 🤖 **Convo-GPT AI SaaS Chat Bot, Manchester, UK (Dec 2023 – Jan 2024)**
+  - 🚀 Independent Full-Stack Engineer
+  - 🔧 Engineered an AI SaaS Chat Bot using the MERN Stack, integrating OpenAI for enhanced chat completion.
+  - 🔒 Implemented advanced user authentication & authorization mechanisms.
+  - 🎨 Designed & implemented a modern React app focusing on a sleek user interface.
+
+🏢 **Work Experience** 
+- 📮 **Royal Mail, Manchester, UK (Mar 2017 – Present)**
+  - 📦 Mail Processor
+  - 💼 Demonstrated dedication & reliability, handling mail operations with attention to detail.
+  - 👥 Effective team player, praised for work ethic & ability to work under pressure.
 
 ---
 
@@ -46,27 +56,26 @@
 <div align="center">
     <h3>🔧 Languages & Tools 🔧</h3>
     <p align="left">
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git/GitHub" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" height="30">
+        <img src="https://www.vectorlogo.zone/logos/apache_netbeans/apache_netbeans-icon.svg" alt="Apache NetBeans" height="30">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30">
     </p>
 </div>
