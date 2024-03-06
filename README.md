@@ -10,6 +10,9 @@
 <div align="center">
     <a href="https://twitter.com/moeezrajput10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" style="margin: 5px;"></a>
     <a href="https://linkedin.com/in/moeezabdul/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="margin: 5px;"></a>
+    <a href="https://1drv.ms/b/s!Akx4y8HSgYVPh4cVXRlCcZXBgRH_oQ?e=psqhX9" target="_blank"><button style="background-color: #FF0000; color: white;">CV</button></a>
+    <a href="mailto:Moeezrajput2000@gmail.com" target="_blank"><button style="background-color: #00acee; color: white;">Gmail</button></a>
+    <a href="https://moeez-abdul.netlify.app/" target="_blank"><button style="background-color: #0077B5; color: white;">Personal Website</button></a>
 </div>
 
 ---
