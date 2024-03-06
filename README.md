@@ -5,7 +5,7 @@
 
 <div align="center">
     <video width="600" controls autoplay loop>
-        <source src="https://s7.gifyu.com/images/SUsik.gif" type="video/gif">
+        <source src="[https://s7.gifyu.com/images/SUsik.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd5c28yaXFqbTdjZnJ2Ym1zNzN6ZDQ0a2s0ZWQyYXk4MHpqNHcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDAXhfSTcRz0er7qZe/giphy.gif)" type="video/gif">
     </video>
 </div>
 
