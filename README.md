@@ -10,9 +10,9 @@
 <div align="center">
     <a href="https://twitter.com/moeezrajput10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" style="margin: 5px;"></a>
     <a href="https://linkedin.com/in/moeezabdul/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="margin: 5px;"></a>
-    <a href="https://1drv.ms/b/s!Akx4y8HSgYVPh4cVXRlCcZXBgRH_oQ?e=psqhX9" target="_blank"><button style="background-color: #FF0000; color: white;">CV</button></a>
-    <a href="mailto:Moeezrajput2000@gmail.com" target="_blank"><button style="background-color: #00acee; color: white;">Gmail</button></a>
-    <a href="https://moeez-abdul.netlify.app/" target="_blank"><button style="background-color: #0077B5; color: white;">Personal Website</button></a>
+    <a href="https://1drv.ms/b/s!Akx4y8HSgYVPh4cVXRlCcZXBgRH_oQ?e=psqhX9" target="_blank"><button style="background-color: #FF0000; color: white;"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/></svg> CV</button></a>
+    <a href="mailto:Moeezrajput2000@gmail.com" target="_blank"><button style="background-color: #00acee; color: white;"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/></svg> Gmail</button></a>
+    <a href="https://moeez-abdul.netlify.app/" target="_blank"><button style="background-color: #0077B5; color: white;"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/></svg> Personal Website</button></a>
 </div>
 
 ---
