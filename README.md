@@ -4,7 +4,9 @@
 </div>
 
 <div align="center">
-    <img src="https://s7.gifyu.com/images/SUsik.gif" alt="Your GIF" style="width: 100%; max-width: 600px;">
+    <video width="600" controls autoplay loop>
+        <source src="https://s7.gifyu.com/images/SUsik.gif" type="video/gif">
+    </video>
 </div>
 
 <div align="center">
