@@ -4,6 +4,10 @@
 </div>
 
 <div align="center">
+    <img src="https://s7.gifyu.com/images/SUsik.gif" alt="Your GIF" style="width: 100%; max-width: 600px;">
+</div>
+
+<div align="center">
     <a href="https://twitter.com/moeezrajput10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" style="margin: 5px;"></a>
     <a href="https://linkedin.com/in/moeezabdul/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="margin: 5px;"></a>
 </div>
