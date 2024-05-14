@@ -1,13 +1,7 @@
 <div align="center">
-    <h1>👋 Hey there, I'm Moeez Abdul! 🚀</h1>
-    <h3>🔥 Full-Stack Developer & Software Engineer from Manchester, UK 🔥</h3>
-    Profile Views
-    <br>
-  <img src="https://profile-counter.glitch.me/Mo-Gamer-2000/count.svg?"  />
-</div>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd5c28yaXFqbTdjZnJ2Ym1zNzN6ZDQ0a2s0ZWQyYXk4MHpqNHcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDAXhfSTcRz0er7qZe/giphy.gif" alt="GIF" style="width:100%; max-width:600px;">
+    <h1>👋 Hey there, I'm Moeez! 🚀</h1>
+    <h3>🔥 A Passionate Software Engineer from Manchester, UK 🔥</h3>
+   
 </div>
 
 <div align="center">
