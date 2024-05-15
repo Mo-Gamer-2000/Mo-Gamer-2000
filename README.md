@@ -24,22 +24,32 @@
 - 🛠 **Tools**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" height="20"> VS Code, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git/GitHub" height="20"> Git/GitHub, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="20"> Bootstrap, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="20"> Postman, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Studio3T" height="20"> Studio3T, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" height="20"> Godot, <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="20"> Figma
 
 ⚙️ **Experience** 
-- 📆 **Sahii Blogging App, Manchester, UK (Jan 2023 – Jan 2024)**
-  - 🚀 Independent Full-Stack Engineer
-  - 🔧 Developed a full-stack MERN blogging application, emphasizing code reusability & TDD.
-  - 📱 Designed a responsive UI/UX, ensuring accessibility & enhancing user engagement.
-  - 📊 Integrated JSON Web Tokens for robust authentication & authorization.
-- 🤖 **Convo-GPT AI SaaS Chat Bot, Manchester, UK (Dec 2023 – Jan 2024)**
-  - 🚀 Independent Full-Stack Engineer
-  - 🔧 Engineered an AI SaaS Chat Bot using the MERN Stack, integrating OpenAI for enhanced chat completion.
-  - 🔒 Implemented advanced user authentication & authorization mechanisms.
-  - 🎨 Designed & implemented a modern React app focusing on a sleek user interface.
+- 📆 **BlogBlast, Manchester, UK (Apr 2024 – May 2024)**
+  - 🚀 Developed a unique digital blogging platform, using Razor SSR .NET 8, C#, and SQL Server SSMS, with a focus on providing users with a seamless, secure, and engaging blogging experience.
+  - 🔧 Implemented robust security measures, including secure password hashing, Role-Based Access Control (RBAC), and encryption, with regular security audits for system integrity.
+  - 📱 Designed a responsive and intuitive user interface for enhanced usability, focusing on efficient navigation and error handling.
+  - 📊 Achieved swift page load times and efficient management of concurrent user sessions through server-side rendering and performance optimisation techniques.
+- 📆 **Appointify, Manchester, UK (Mar 2024 – Apr 2024)**
+  - 🚀 Developed secure user authentication, appointment management, and role-based access control features using C# and ASP.NET MVC.
+  - 🔧 Implemented SQL databases for efficient data management, including CRUD functionality.
+  - 📱 Enhanced user engagement with automated SMS notifications for real-time updates.
+  - 📊 Ensured application reliability, security, and scalability through rigorous testing and debugging.
+- 📆 **Sahii, Manchester, UK (Jan 2023 – Jan 2024)**
+  - 🚀 Architected a full-stack MERN blog app using React.js, Next.js (Front-End) and Node.js, Express.js (Back-End) with MongoDB and Studio3T for data management.
+  - 🔧 Integrated JSON Web Tokens to ensure robust authentication and authorisation, conducting API testing with Postman.
+  - 📱 Designed a user-centric platform for responsive UI/UX, employing Tailwind CSS, Material UI and Daisy UI.
+  - 📊 Enhanced user engagement through features like CRUD functionality, pagination, and a dedicated admin panel for monitoring.
+- 🤖 **Convo-GPT, Manchester, UK (Dec 2023 – Jan 2024)**
+  - 🚀 Pioneered the development of an AI SaaS Chat Bot using the MERN Stack, creating a feature-rich ChatGPT Clone.
+  - 🔧 Implemented advanced user authentication and authorisation mechanisms with JWT tokens and HTTP-only cookies.
+  - 🔒 Utilised express-validators middleware for data validation, ensuring secure handling of user information.
+  - 🎨 Engineered the storage of user chats in MongoDB and seamlessly integrated OpenAI for enhanced chat completion.
 
 🏢 **Work Experience** 
-- 📮 **Royal Mail, Manchester, UK (Mar 2017 – Present)**
-  - 📦 Mail Processor
-  - 💼 Demonstrated dedication & reliability, handling mail operations with attention to detail.
-  - 👥 Effective team player, praised for work ethic & ability to work under pressure.
+- 📮 **Royal Mail - Mail Processor, Manchester, UK (Mar 2017 – Present)**
+  - 📦 Displayed attention to detail and accuracy in handling mail, met daily targets and contributed to collaborative efforts.
+  - 💼 Demonstrated dedication and reliability by working for 7 years in the same role, responsible for mail operations.
+  - 👥 Worked effectively in a team, praised by the manager for my work ethic and ability to work effectively under pressure.
 
 ---
 
@@ -47,12 +57,12 @@
     <h3>🌟 What I'm Up To 🌟</h3>
 </div>
 
-- 🛠 **Working on**: [Sahii Blog App](https://github.com/Mo-Gamer-2000?tab=repositories)
-- 📚 **Learning**: JavaScript, MongoDB, Express, React, Node && C#, ASP.NET, Blazor, SQL, Docker
-- 🤝 **Collaborating on**: [Portfolio Website](https://moeez-abdul.netlify.app/)
+- 🛠 **Working on**: [BlogBlast](https://github.com/Mo-Gamer-2000/BlogBlastApp)
+- 📚 **Learning**: JavaScript, MongoDB, Express, React, Node & C#, ASP.NET, Blazor, SQL, Docker, SQL
+- 🤝 **Collaborating on**: [My Website](https://moeez-abdul.netlify.app/)
 - ❓ **Ask me about**: The life of a Software Engineer
 - 📬 **Contact**: **moeezrajput2000@gmail.com**
-- 🏏 **Fun fact**: Passionate Cricket and Gaming Enthusiast!
+- 🏏 **Fun fact**: Talented Cricketer, Gamer and Tech Enthusiast!
 
 ---
 
