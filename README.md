@@ -7,7 +7,7 @@
 <div align="center">
     <a href="https://twitter.com/moeezrajput10" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="width: 50px; height: 50px; background-color: #1DA1F2; border-radius: 50%; padding: 10px;"></a>
     <a href="https://linkedin.com/in/moeezabdul/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; background-color: #0077B5; border-radius: 50%; padding: 10px;"></a>
-    <a href="https://1drv.ms/b/s!Akx4y8HSgYVPh4cVXRlCcZXBgRH_oQ?e=psqhX9" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png" alt="CV" style="width: 50px; height: 50px; background-color: #FF0000; border-radius: 50%; padding: 10px;"></a>
+    <a href="https://1drv.ms/b/s!Akx4y8HSgYVPirBY8QPkTQlOosdnNw?e=0XhLty" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png" alt="CV" style="width: 50px; height: 50px; background-color: #FF0000; border-radius: 50%; padding: 10px;"></a>
     <a href="mailto:Moeezrajput2000@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="width: 50px; height: 50px; background-color: #D44638; border-radius: 50%; padding: 10px;"></a>
     <a href="https://moeez-abdul.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Personal Website" style="width: 50px; height: 50px; background-color: #663399; border-radius: 50%; padding: 10px;"></a>
 </div>
