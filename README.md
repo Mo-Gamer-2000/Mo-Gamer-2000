@@ -40,7 +40,7 @@
   - 📱 Designed a user-centric platform for responsive UI/UX, employing Tailwind CSS, Material UI and Daisy UI.
   - 📊 Enhanced user engagement through features like CRUD functionality, pagination, and a dedicated admin panel for monitoring.
 - 🤖 **Convo-GPT, Manchester, UK (Dec 2023 – Jan 2024)**
-  - 🚀 Pioneered the development of an AI SaaS Chat Bot using the MERN Stack, creating a feature-rich ChatGPT Clone.
+  - 🚀 Pioneered the development of an AI SaaS Chat Bot using TypeScript and the MERN Stack, creating a feature-rich ChatGPT Clone.
   - 🔧 Implemented advanced user authentication and authorisation mechanisms with JWT tokens and HTTP-only cookies.
   - 🔒 Utilised express-validators middleware for data validation, ensuring secure handling of user information.
   - 🎨 Engineered the storage of user chats in MongoDB and seamlessly integrated OpenAI for enhanced chat completion.
